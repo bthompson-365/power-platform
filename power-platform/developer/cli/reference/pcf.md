@@ -113,7 +113,7 @@ This parameter requires no value. It's a switch.
 
 Customization prefix value for the Dataverse solution publisher
 
-**Note**: The prefix must be 2 to 8 characters long, can only consist of alpha-numerics, must start with a letter, and can't start with 'mscrm'.
+**Note**: The prefix must be 2 to 8 characters long, can only consist of alpha-numerics, must start with a letter, and can't start with 'mscrm'. If not specified a default prefix of dev will be used.
 
 #### `--verbosity` `-v`
 
